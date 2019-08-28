@@ -55,7 +55,7 @@ Let’s start with this template:
 To add your introduction, copy our template and click the edit pencil icon at the top right hand corner of the `index.html` file.
 
 <img width="997" alt="edit-this-file" src="https://user-images.githubusercontent.com/18093541/63131820-0794d880-bf8d-11e9-8b3d-c096355e9389.png">
-
+<p>Hello World! I’m [username]. This is my website!</p>
 
 Delete this placeholder line:
 
